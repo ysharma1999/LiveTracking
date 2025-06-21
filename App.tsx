@@ -1,29 +1,3 @@
-// import { SafeAreaView, StyleSheet, Text, View } from 'react-native';
-// import React from 'react';
-// import Navigation from './src/navigation/Navigation';
-// import { Provider } from 'react-redux';
-// import { store } from './src/store/store';
-// import ToastMessage from './src/component/ToastMessage';
-// import { AppProvider } from './src/context/AppContext';
-
-// type Props = {};
-
-// const App = (props: Props) => {
-//   return (
-//     <SafeAreaView style={{ flex: 1 }}>
-//       <Provider store={store}>
-//         <AppProvider>
-//           <Navigation />
-//         </AppProvider>
-//       </Provider>
-//       <ToastMessage />
-//     </SafeAreaView>
-//   );
-// };
-
-// export default App;
-
-
 import React, { useEffect, useRef, useState } from 'react';
 import { 
   View, 
