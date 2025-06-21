@@ -42,7 +42,7 @@ To develop a React Native application feature that:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/live-tracking-app.git
+git clone https://github.com/ysharma1999/LiveTracking
 cd live-tracking-app
 
 
